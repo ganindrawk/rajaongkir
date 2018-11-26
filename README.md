@@ -3,16 +3,16 @@ Menampilkan Data Ongkos Kirim dari beberapa Jasa Layanan Pengiriman di Indonesia
 
 Langkah-langkah Menggunakan Library, berikut yang perlu diubah
 1. env.php <br/>
-$env["url"] = "https://api.rajaongkir.com"; // Link Url dari Raja Ongkir.
-$env["proxy"] = "10.xx.x.xx:xx"; // Jika tidak ada proxy dihapus isinya.
-
-2. listProvinsi.php
-isi kan API Key anda yang didapat dari rajaongkir
-
-3. listCity.php
-isi kan API Key anda yang didapat dari rajaongkir
-
-4. listCost.php
-isi kan API Key anda yang didapat dari rajaongkir
-
-Untuk mencoba apakah berhasil atau tidak
+$env["url"] = "https://api.rajaongkir.com"; // Link Url dari Raja Ongkir.  <br/>
+$env["proxy"] = "10.xx.x.xx:xx"; // Jika tidak ada proxy dihapus isinya.  <br/>
+ <br/> <br/>
+2. listProvinsi.php  <br/>
+isi kan API Key anda yang didapat dari rajaongkir  <br/>
+ <br/> <br/>
+3. listCity.php  <br/>
+isi kan API Key anda yang didapat dari rajaongkir  <br/>
+ <br/> <br/>
+4. listCost.php  <br/>
+isi kan API Key anda yang didapat dari rajaongkir  <br/>
+ <br/> <br/>
+Untuk mencoba apakah berhasil atau tidak 
