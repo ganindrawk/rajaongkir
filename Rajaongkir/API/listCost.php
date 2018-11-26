@@ -41,8 +41,8 @@ class listCost
         curl_setopt_array($curl, array(
             CURLOPT_URL => $url,
             CURLOPT_RETURNTRANSFER => true,
-            CURLOPT_PROXY => $proxy[0], // Aktifkan jika menggunakan Proxy
-            CURLOPT_PROXYPORT => $proxy[1], // Aktifkan jika menggunakan Proxy
+            //CURLOPT_PROXY => $proxy[0], // Aktifkan jika menggunakan Proxy
+            //CURLOPT_PROXYPORT => $proxy[1], // Aktifkan jika menggunakan Proxy
             CURLOPT_ENCODING => "",
             CURLOPT_MAXREDIRS => 10,
             CURLOPT_TIMEOUT => 30,
@@ -53,7 +53,7 @@ class listCost
             CURLOPT_POSTFIELDS => $data,
             CURLOPT_HTTPHEADER => array(
                 "cache-control: no-cache",
-                "key: bec09b50ded17e874c20ca8960c0238e",
+                "key: Your Api Key",
                 "postman-token: 2048a7f4-d87a-20e0-823c-b6ba32200441"
             ),
         ));
