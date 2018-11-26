@@ -25,18 +25,18 @@ Apabila sudah diterapkan dan untuk mencoba apakah berhasil atau tidak buka file:
 <p>
  <p>
  Jika ingin menggunakan pada Code Igniter, copykan semua file di folder library, lalu buat file dengan nama Rajaongkir.php didalam library:
-// <!-- Script -->
-// <?php
-// if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-// require_once dirname(__FILE__) . '\Rajaongkir\Rajaongkir.php';
-// class Rajaongkir extends \Rajaongkir\Rajaongkir{
-//    function __construct()
-//    {
-//        parent::__construct();
-//    }
+ <!-- Script -->
+ <?php
+ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+ require_once dirname(__FILE__) . '\Rajaongkir\Rajaongkir.php';
+ class Rajaongkir extends \Rajaongkir\Rajaongkir{
+    function __construct()
+    {
+        parent::__construct();
+    }
    
-// }
-//  <!-- End Script -->
+ }
+  <!-- End Script -->
 
  <h3>Semoga Bermanfaat</h3>
  </p>
