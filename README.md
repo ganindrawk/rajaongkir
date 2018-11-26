@@ -1,4 +1,4 @@
-# rajaongkir
+# Rajaongkir Library (PHP Native / Code Igniter, Laravel not tested)
 Menampilkan Data Ongkos Kirim dari beberapa Jasa Layanan Pengiriman di Indonesia, library ini menggunakan paket Starter (free) dari Raja Ongkir
 <p>
 Langkah-langkah Menggunakan Library, berikut yang perlu diubah: <br/>
@@ -40,7 +40,7 @@ Apabila sudah diterapkan dan untuk mencoba apakah berhasil atau tidak buka file:
  ```
  <p>
  
- Untuk memanggilnya cukup menuliskannya seperti dibawab ini: <br/>
+ Untuk memanggilnya cukup menuliskannya seperti dibawah ini: <br/>
  1. List Provinsi <br/>
  
  ``` 
