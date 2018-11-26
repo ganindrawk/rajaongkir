@@ -38,6 +38,33 @@ Apabila sudah diterapkan dan untuk mencoba apakah berhasil atau tidak buka file:
    
  }
  ```
-
+ <p>
+ 
+ Untuk memanggilnya cukup menuliskannya seperti dibawab ini: <br/>
+ 1. List Provinsi <br/>
+ 
+ ``` 
+ $this->Rajaongkir->listProvinsi();
+ ```
+ <br/>
+ 
+ 2. List City <br/>
+ 
+ ``` 
+ $this->Rajaongkir->listCity();
+ ``` 
+ 
+ 3. Cost / Biaya <br/>
+ 
+ ``` 
+ $this->Rajaongkir->listCost($origin,$destination,$weight,$courier);
+ ```
+ </p>
+ <p>
+ <b>Example</b>
+ 1. Klik -> <a href="https://library.arenabalap.com/Rajaongkir/API/propinsi.php">List Provinsi</a> <br/> 
+ 2. Klik -> <a href="https://library.arenabalap.com/Rajaongkir/API/city.php">List City / Kota</a> <br/> 
+ 3. Klik -> <a href="https://library.arenabalap.com/Rajaongkir/API/form.html">Cost / Biaya </a> <br/>
+ </p>
  <h3>Semoga Bermanfaat</h3>
  </p>
