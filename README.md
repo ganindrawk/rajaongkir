@@ -2,7 +2,7 @@
 Menampilkan Data Ongkos Kirim dari beberapa Jasa Layanan Pengiriman di Indonesia, library ini menggunakan paket Starter (free) dari Raja Ongkir
 
 Langkah-langkah Menggunakan Library, berikut yang perlu diubah
-1. env.php
+1. env.php <br/>
 $env["url"] = "https://api.rajaongkir.com"; // Link Url dari Raja Ongkir.
 $env["proxy"] = "10.xx.x.xx:xx"; // Jika tidak ada proxy dihapus isinya.
 
