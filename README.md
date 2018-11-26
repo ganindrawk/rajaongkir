@@ -61,10 +61,12 @@ Apabila sudah diterapkan dan untuk mencoba apakah berhasil atau tidak buka file:
  ```
  </p>
  <p>
- <b>Example</b>
+ <b>Contoh (Example)</b> <br/> 
  1. Klik -> <a href="https://library.arenabalap.com/Rajaongkir/API/propinsi.php">List Provinsi</a> <br/> 
  2. Klik -> <a href="https://library.arenabalap.com/Rajaongkir/API/city.php">List City / Kota</a> <br/> 
  3. Klik -> <a href="https://library.arenabalap.com/Rajaongkir/API/form.html">Cost / Biaya </a> <br/>
  </p>
  <h3>Semoga Bermanfaat</h3>
  </p>
+
+Indra WK / https://arenabalap.com
