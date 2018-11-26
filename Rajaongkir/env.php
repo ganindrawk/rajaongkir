@@ -28,7 +28,7 @@ $env["reload_page"] = "<script> window.location.reload(); </script>";
 // biasanya akan masuk di spam email
 $env["password"] = "";
 
-$env["proxy"] = "10.15.3.21:80"; // Aktifkan jika menggunakan proxy
-//$env["proxy"] = "";
+//$env["proxy"] = "10.15.3.21:80"; // Aktifkan jika menggunakan proxy
+$env["proxy"] = "";
 
 
