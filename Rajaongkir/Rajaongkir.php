@@ -3,8 +3,8 @@
 namespace Rajaongkir;
 
 use listProvinsi\listProvinsi;
-use listProvinsi\listCity;
-use listProvinsi\listCost;
+use listCity\listCity;
+use listCost\listCost;
 
 class Rajaongkir
 {
